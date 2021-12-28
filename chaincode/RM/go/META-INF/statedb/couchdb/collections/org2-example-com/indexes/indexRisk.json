@@ -1,0 +1,17 @@
+{
+    "index": {
+        "fields": [
+            "rorganization.orgname",
+            "rorganization.suborgname",
+            "ownerorg.suborgname",
+            "ownerorg.orgname",
+            "asssessment.assessid",
+            "assessment.assesser",
+            "rstatus",
+            "rname"
+        ]
+    },
+    "ddoc": "indexRisk",
+    "name": "indexRisk",
+    "type": "json"
+}

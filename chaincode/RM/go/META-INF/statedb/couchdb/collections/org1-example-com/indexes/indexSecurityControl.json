@@ -1,0 +1,16 @@
+{
+    "index": {
+        "fields": [
+            "mdid",
+            "supid",
+            "sname",
+            "sorganization.orgname",
+            "sorganization.suborgname",
+            "sstatus",
+            "apresponsible"
+        ]
+    },
+    "ddoc": "indexSecurityControl",
+    "name": "indexSecurityControl",
+    "type": "json"
+}

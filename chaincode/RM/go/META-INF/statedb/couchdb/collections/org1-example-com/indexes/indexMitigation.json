@@ -1,0 +1,15 @@
+{
+    "index": {
+        "fields": [
+            "mname",
+            "morganization.orgname",
+            "morganization.suborgname",
+            "mstatus",
+            "avresponsible",
+            "riskdeps.[].rdid"
+        ]
+    },
+    "ddoc": "indexMitigation",
+    "name": "indexMitigation",
+    "type": "json"
+}
